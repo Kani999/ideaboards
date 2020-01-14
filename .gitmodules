@@ -1,0 +1,6 @@
+[submodule "ideaboard-api"]
+	path = ideaboard-api
+	url = git@github.com:Kani999/ideaboard-api.git
+[submodule "ideaboard"]
+	path = ideaboard
+	url = git@github.com:Kani999/ideaboard.git
